@@ -1,4 +1,4 @@
-# Basic-Website (2016)
+# Basic-University-Website (2016)
 > Tools - HTML, CSS, JS
 
 ## About
